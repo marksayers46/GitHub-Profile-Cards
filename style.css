@@ -103,6 +103,7 @@ body {
   display: inline-block;
 }
 
+
 /* desktop first / anything under 500px */
 @media (max-width: 500px) {
   .card {
