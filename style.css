@@ -103,7 +103,7 @@ body {
   display: inline-block;
 }
 
-/* mobile first / anything under 500px */
+/* desktop first / anything under 500px */
 @media (max-width: 500px) {
   .card {
     flex-direction: column;
